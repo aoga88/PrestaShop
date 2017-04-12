@@ -80,7 +80,7 @@ class Datas
         'database_name' => array(
             'name' => 'db_name',
             'alias' => 'd',
-            'default' => 'prestashop',
+            'default' => 'kadoo',
             'validate' => 'isGenericName',
         ),
         'database_clear' => array(
@@ -109,7 +109,7 @@ class Datas
         'shop_name' => array(
             'name' => 'name',
             'validate' => 'isGenericName',
-            'default' => 'PrestaShop',
+            'default' => 'Kadoo Tienda',
         ),
         'shop_activity'    => array(
             'name' => 'activity',
@@ -139,17 +139,17 @@ class Datas
         'admin_email' => array(
             'name' => 'email',
             'validate' => 'isEmail',
-            'default' => 'pub@prestashop.com'
+            'default' => 'admin@kadoo.mx'
         ),
         'show_license' => array(
             'name' => 'license',
             'default' => 0,
-            'help' => 'show PrestaShop license'
+            'help' => 'show Kadoo license'
         ),
         'newsletter' => array(
             'name' => 'newsletter',
             'default' => 1,
-            'help' => 'get news from PrestaShop',
+            'help' => 'get news from Kadoo',
         ),
         'theme' => array(
             'name' => 'theme',
