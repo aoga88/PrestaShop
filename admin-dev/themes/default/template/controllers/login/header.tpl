@@ -33,7 +33,7 @@
 
 		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
 		<meta name="apple-mobile-web-app-capable" content="yes">
-		<link rel="icon" type="image/x-icon" href="{$img_dir}favicon.ico" />
+		<link rel="icon" type="image/x-icon" href="{$img_dir}favicon.png" />
 		<link rel="apple-touch-icon" href="{$img_dir}app_icon.png" />
 
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
